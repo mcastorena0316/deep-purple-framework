@@ -5,6 +5,8 @@ Grid-based Framework built with Sass. This is the last project in Microverse's H
  - Building your own framework
  - Cloning a website with the use of the framework
 
+<div align="center"><img src="images/jancis.jpg"></div>
+
 ## Table of Contents
 
 * [About the Project](#about-the-project)
